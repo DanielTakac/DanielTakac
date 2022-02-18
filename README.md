@@ -1,4 +1,6 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanielTakac&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanielTakac&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielTakac&layout=compact&hide=ShaderLab,GLSL,HLSL,Objective-C%2B%2B,ASP.NET,Inno%20Setup)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages and Tools I use:
 
