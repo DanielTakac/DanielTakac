@@ -35,10 +35,6 @@
 **\- danieltakac23@gmail.com**
 <br>
 
-<!--![Snapchat](https://img.shields.io/badge/Snapchat-%23FFFC00.svg?style=for-the-badge&logo=Snapchat&logoColor=white)
-**\- dejnou21**
-<br>-->
-
 ![YouTube](https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 **\- https://www.youtube.com/c/Void0088**
 
