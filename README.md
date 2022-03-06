@@ -1,6 +1,44 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanielTakac&theme=dark&show_icons=true&include_all_commits=true&count_private=true)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanielTakac&theme=dark&show_icons=true&include_all_commits=true&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielTakac&layout=compact&hide=ShaderLab,GLSL,HLSL,Objective-C%2B%2B,ASP.NET,Inno%20Setup,CMAKE&langs_count=10&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DanielTakac&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
+
+<p align="center">
+ 
+ <img src="https://badges.pufler.dev/visits/DanielTakac/DanielTakac"/> 
+ <!-- <img src="https://badges.pufler.dev/years/DanielTakac"/> -->
+ <img src="https://badges.pufler.dev/repos/DanielTakac"/>
+ <img src="https://badges.pufler.dev/commits/monthly/DanielTakac" />
+
+</p>
+
+<h2 align="center">
+  My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
+</h2>
+<p align="center">
+  <img src="https://github.com/DanielTakac/DanielTakac/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+
+<h2 align="center">
+  My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+</h2>
+ 
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DanielTakac&show_icons=true&theme=radical&line_height=27">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielTakac&hide=ShaderLab,GLSL,HLSL,Objective-C%2B%2B,ASP.NET,Inno%20Setup,CMAKE&theme=radical">
+</p>
+
+<p align="center">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielTakac&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+</p> 
+
+<p align="center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=DanielTakac&theme=redical">
+</p> 
+<hr>
 
 ### Languages I use:
 
@@ -38,4 +76,4 @@
 **\- https://www.youtube.com/c/Void0088**
 <br>
 
-![](https://komarev.com/ghpvc/?username=DanielTakac&color=blue)
+<!-- ![](https://komarev.com/ghpvc/?username=DanielTakac&color=blue) -->
