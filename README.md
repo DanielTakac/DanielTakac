@@ -4,6 +4,8 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DanielTakac&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
 
+<img src="https://github.com/DanielTakac/DanielTakac/blob/readme-rework/images/header.png" />
+
 <p align="center">
  
  <img src="https://badges.pufler.dev/visits/DanielTakac/DanielTakac"/> 
