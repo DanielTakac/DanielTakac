@@ -3,7 +3,6 @@
 <p align="center">
  
  <img src="https://badges.pufler.dev/visits/DanielTakac/DanielTakac"/> 
- <!-- <img src="https://badges.pufler.dev/years/DanielTakac"/> -->
  <img src="https://badges.pufler.dev/repos/DanielTakac"/>
  <img src="https://badges.pufler.dev/commits/monthly/DanielTakac" />
 
