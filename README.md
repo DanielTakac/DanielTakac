@@ -1,11 +1,9 @@
 <img src="https://github.com/DanielTakac/DanielTakac/blob/readme-rework/Images/header.png" />
 
 <p align="center">
- 
  <img src="https://badges.pufler.dev/visits/DanielTakac/DanielTakac"/> 
  <img src="https://badges.pufler.dev/repos/DanielTakac"/>
  <img src="https://badges.pufler.dev/commits/monthly/DanielTakac" />
-
 </p>
 
 <h2 align="center">
