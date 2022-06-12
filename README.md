@@ -62,7 +62,7 @@
  **\- Void() #4542**
 <br>
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)
 **\- danieltakac@protonmail.com**
 <br>
 
