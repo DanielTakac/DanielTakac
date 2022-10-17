@@ -63,7 +63,7 @@
 ### Socials:
 
 ![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
- **\- Void() #4542**
+ **\- Object Oriented Guy #4542**
 <br>
 
 ![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)
