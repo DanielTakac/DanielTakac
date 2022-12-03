@@ -31,6 +31,9 @@
 <p align="center">
  <img src="https://activity-graph.herokuapp.com/graph?username=DanielTakac&theme=redical">
 </p> 
+
+<!--- advent_readme_stars table --->
+
 <hr>
 
 <!--### Languages I use:-->
