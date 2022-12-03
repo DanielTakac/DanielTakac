@@ -32,6 +32,8 @@
  <img src="https://activity-graph.herokuapp.com/graph?username=DanielTakac&theme=redical">
 </p> 
 
+# Advent of Code
+
 <!--- advent_readme_stars table --->
 ## 2022 Results
 
