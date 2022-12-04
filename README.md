@@ -32,6 +32,8 @@
  <img src="https://activity-graph.herokuapp.com/graph?username=DanielTakac&theme=redical">
 </p> 
 
+<hr>
+
 # [Advent of Code](https://adventofcode.com)
 
 <!--- advent_readme_stars table --->
