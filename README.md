@@ -49,6 +49,7 @@
 | [Day 6](https://adventofcode.com/2022/day/6) | ⭐ | ⭐ |
 | [Day 7](https://adventofcode.com/2022/day/7) | ⭐ | ⭐ |
 | [Day 8](https://adventofcode.com/2022/day/8) | ⭐ | ⭐ |
+| [Day 10](https://adventofcode.com/2022/day/10) | ⭐ |   |
 <!--- advent_readme_stars table --->
 
 <hr>
