@@ -28,9 +28,9 @@
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielTakac&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p> 
 
-<p align="center">
+<!--<p align="center">
  <img src="https://activity-graph.herokuapp.com/graph?username=DanielTakac&theme=redical">
-</p>
+</p>-->
 
 <hr>
 
