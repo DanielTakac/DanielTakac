@@ -1,11 +1,5 @@
 <img src="https://github.com/DanielTakac/DanielTakac/blob/readme-rework/Images/header.png" />
 
-<p align="center">
- <img src="https://badges.pufler.dev/visits/DanielTakac/DanielTakac"/> 
- <img src="https://badges.pufler.dev/repos/DanielTakac"/>
- <img src="https://badges.pufler.dev/commits/monthly/DanielTakac" />
-</p>
-
 <h2 align="center">
   My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
 </h2>
