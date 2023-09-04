@@ -64,7 +64,7 @@
 <br>
 
 ![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)
-**\- danieltakac@protonmail.com**
+**\- danieltakac@proton.me**
 <br>
 
 ![YouTube](https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
